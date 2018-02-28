@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    background: url(..img/sobre-background.jpg);
+    background: url(../img/sobre-background.jpg);
 }
 
 h2 {
@@ -13,8 +13,8 @@ h2 {
 
 figure {
     background-color: #F2EDED;
-    border: 1px solid #ccc
-    text-align center;
+    border: 1px solid #ccc;
+    text-align: center;
 }
 
 figcaption{
